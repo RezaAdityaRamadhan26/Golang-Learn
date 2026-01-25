@@ -5,9 +5,9 @@ func getHello(name string) string {
 	return hello
 }
 
-func main() {
-	Halo := getHello("Eki") // Cara biasa mengembalikan data pada function
-	println(Halo)
+// func main() {
+// 	Halo := getHello("Eki") // Cara biasa mengembalikan data pada function
+// 	println(Halo)
 
-	println(getHello("Eki")) // Cara singkat mengembalikan data pada function
-}
+// 	println(getHello("Eki")) // Cara singkat mengembalikan data pada function
+// }
