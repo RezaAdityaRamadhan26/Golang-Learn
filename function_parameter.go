@@ -6,6 +6,6 @@ func sayHelloTo(firstName string, lastName string) {
 	fmt.Println("Hello", firstName, lastName)
 }
 
-func main () {
-	sayHelloTo("Reza", "Aditya")
-}
+// func main () {
+// 	sayHelloTo("Reza", "Aditya")
+// }
