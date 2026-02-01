@@ -1,6 +1,6 @@
 package main
 
-import "fmt"
+// import "fmt"
 
 func getCompleteName(firstName, middleName, lastName string) (string, string, string) {
 	firstName = "Eki"
